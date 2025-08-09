@@ -13,3 +13,4 @@
 
 	# Config 3d party
 	$APIKEY = "ThisIsApiKey";
+$APIKEY = "ThisIsApiKey"$APIKEY = "ThisIsApiKey"$APIKEY = "ThisIsApiKey"
